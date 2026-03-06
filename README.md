@@ -71,7 +71,7 @@ todoList/
 
 ## License
 
-This project is open source.
+MIT
 
 ---
 
